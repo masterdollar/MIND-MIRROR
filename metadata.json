@@ -1,0 +1,6 @@
+{
+  "name": "MindMirror AI - Futuristic Emotional OS",
+  "description": "An advanced futuristic emotional intelligence OS with real-time neural companion, cybernetic mood streaming, cognitive journaling, and hypnotic neon micro-interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
